@@ -12,3 +12,5 @@ def isSorted[A] (as: Array[A], ordered: (A, A) => Boolean): Boolean = {
 
 isSorted(Array(1,3,5,7,9), (a:Int, b:Int) => a < b)  // true
 isSorted(Array(1,3,7,5,9), (a:Int, b:Int) => a < b)  // false
+isSorted(Array(1,3,3,5,9), (a:Int, b:Int) => a < b)  // false
+isSorted(Array(1,3,3,5,9), (a:Int, b:Int) => a <= b)  // true
