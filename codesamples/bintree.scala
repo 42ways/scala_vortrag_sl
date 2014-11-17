@@ -22,13 +22,13 @@ def depth(t: BinTree[_]): Int = {
 
 val t = Node(2, Node(1, EmptyTree, EmptyTree), Node(4, Node(3, EmptyTree, EmptyTree), Node(5, EmptyTree, EmptyTree)))
 
-def mkTree[A](l: List[A], lt: (A, A) => Boolean): BinTree[A] = {
+def mkTree[A <% Ordered[A]](l: List[A]): BinTree[A] = {
     def insert(x: A, t: BinTree[A]): BinTree[A] = {
         t match {
             case EmptyTree => Node(x, EmptyTree, EmptyTree)
-            case Node(y, l, r) => if (lt(x, y))
+            case Node(y, l, r) => if (x < y)
                                     Node(y, insert(x, l), r)
-                                  else if (lt(y, x))
+                                  else if (x > y)
                                     Node(y, l, insert(x, r))
                                   else
                                     t
@@ -36,11 +36,10 @@ def mkTree[A](l: List[A], lt: (A, A) => Boolean): BinTree[A] = {
     }
     l match {
         case Nil => EmptyTree
-        case x::xs => insert(x, mkTree(xs, lt))
+        case x::xs => insert(x, mkTree(xs))
     }
 }
 
 val l = List(7, 9, 2, 5, 8, 4, 0, 1, 5, 6, 2, 3)
-val t2 = mkTree(l, (a: Int, b: Int) => a < b)
-val t3 = mkTree(l, (a: Int, b: Int) => a > b)
+val t2 = mkTree(l)
 
