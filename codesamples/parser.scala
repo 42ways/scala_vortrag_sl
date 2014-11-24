@@ -1,24 +1,59 @@
-// parser combinators (fro Funcional Programming in Scala)
+// From chapter 19 of "Scala for the Impatient"
 
-trait Parsers[ParseError, Parser[+_]] { self =>
+import scala.util.parsing.combinator._
 
-    def run[A](p: Parser[A])(input: String): Either[ParseError, A]
+class ExprParser extends RegexParsers {
+    val number = "[0-9+]".r
 
-    def char(c: Char): Parser[Char]
-    implicit def string(s: String): Parser[String]
-    implicit def operators[A](p: Parser[A]) = ParserOps[A](p)
-    implicit def asStringParser[A](a: A)(implicit f: A => Parser[String]): ParserOps[Sting] = ParserOps[f(a)]
-
-    def or[A](s1: Parser[A], s2:Parser[A]): Parser[A]
-
-    def listOfN[A](n: Int, p: Parser[A]): Parser[List[A]]
-
-    def many[A](p: Parser[A]): Parser[List[A]]
-
-    def map[A,B](a: Parser[A])(f: A => B): Parser[B]
-    
-    case class ParserOps[A](p: Parser[A]) {
-        def |[B>:A](p2: Parser[B]): Parser[B] = self.or(p, p2)
-        def or[B>:A](p2: => Parser[B]): Parser[B] = self.or(p, p2)
-    }
+    def expr: Parser[Any] = term ~ opt(("+" | "-") ~ expr)
+    def term: Parser[Any] = factor ~ rep("*" ~ factor)
+    def factor: Parser[Any] = number | "(" ~ expr ~ ")"
 }
+
+val parser = new ExprParser
+val result = parser.parseAll(parser.expr, "3-4*5")
+if (result.successful) println(result.get)
+
+// ----------------------------------------
+
+class EvalParser extends RegexParsers {
+    val number = "[0-9+]".r
+
+    def expr: Parser[Int] = term ~ opt(("+" | "-") ~ expr) ^^ {
+        case t ~ None => t
+        case t ~ Some("+" ~ e) => t + e
+        case t ~ Some("-" ~ e) => t - e
+    }
+    def term = factor ~ rep("*" ~> factor) ^^ {
+        case f ~ r => f * r.product
+    }
+    def factor = number ^^ {_.toInt} | "(" ~> expr <~ ")"
+}
+
+val parser = new EvalParser
+val result = parser.parseAll(parser.expr, "3-4*5")
+
+// ----------------------------------------
+
+class ParseTree
+case class Number(value: Int) extends ParseTree
+case class Operator(op: String, left: ParseTree, right: ParseTree) extends ParseTree
+
+class TreeParser extends RegexParsers {
+    val number = "[0-9+]".r
+
+    def expr: Parser[ParseTree] = term ~ opt(("+" | "-") ~ expr) ^^ {
+        case a ~ None => a
+        case a ~ Some("+" ~ b) => Operator("+", a, b)
+        case a ~ Some("-" ~ b) => Operator("-", a, b)
+    }
+    def term: Parser[ParseTree] = factor ~ opt("*" ~> term) ^^ {
+        case a ~ None => a
+        case a ~ Some(b) => Operator("*", a, b)
+    }
+    def factor: Parser[ParseTree] = number ^^ (n => Number(n.toInt)) | "(" ~> expr <~ ")"
+}
+
+val parser = new TreeParser
+val result = parser.parseAll(parser.expr, "3-4*5")
+
