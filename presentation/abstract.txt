@@ -1,0 +1,10 @@
+Funktionale Programmierung und mehr mit Scala
+=============================================
+
+Funktionale Programmiersprachen haben in den letzten Jahren eine Renaissance erlebt.
+
+Seiteneffektfreie Funktionen als Programmierparadigma ermöglichen die Parallelisierung der Programmausführung und erreichen damit eine wesentlich bessere Ausnutzung heutiger Multicore-Rechnerarchitekturen.
+
+Darüber hinaus führt die funktionale Umsetzung oft zu klareren und kompakteren Algorithmen und damit zu kürzerem und in der Folge verständlicherem Programmcode. Die Struktur des Programms ist häufig deutlich näher an der Problemstelltung als in prozeduralem Code.
+
+Der Vortrag zeigt anhand von Beispielen einige Features der objekt-funktionalen Programmiersprache Scala, die durch ihre Kompatibilität mit der Java-Infrastruktur in den letzten Jahren viele Anhänger gefunden hat.  
