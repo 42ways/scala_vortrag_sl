@@ -1,5 +1,7 @@
 // extract algorithmic structures with higher order functions
 
+// some recursive functions
+
 def fac(n: Int): Int = {
     if (n == 0) 1
     else n * fac(n-1)
@@ -15,14 +17,28 @@ def squareSumUpTo(n: Int): Int = {
     else n * n + squareSumUpTo(n-1)
 }
 
-def simpleRecScheme(base: Int, op: (Int, Int) => Int)(n: Int): Int = {
-    if (n == 0) base
-    else op(n, simpleRecScheme(base, op)(n-1))
+// extract recursion pattern
+
+def myRecScheme(initval: Int, func: (Int, Int) => Int): Int => Int = {
+    n => if (n == 0) initval
+         else func(n, myRecScheme(initval, func)(n-1))
 }
 
-def fac2 = simpleRecScheme(1, (a, b) => a * b)_
+def fac = myRecScheme(1, _*_)
 
-def sumUpTo2 = simpleRecScheme(0, _ + _)_
+def sumUpTo = myRecScheme(0, _+_)
 
-def squareSumUpTo2 = simpleRecScheme(0, (a, b) => a * a + b)_
+def squareSumUpTo = myRecScheme(0, (a, b) => a * a + b)
+
+
+// extract steps and end condition as well
+
+def mySecondRecScheme(terminate: Int => Boolean, step: Int => Int, initval: Int, func: (Int, Int) => Int): Int => Int = {
+    n => if (terminate(n)) initval
+         else func(n, mySecondRecScheme(terminate, step, initval, func)(step(n)))
+}
+
+def fac = mySecondRecScheme(_ == 0, _-1, 1, _*_)
+
+
 
