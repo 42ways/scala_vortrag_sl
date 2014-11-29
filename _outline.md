@@ -2,8 +2,9 @@ Presentation Outline
 ====================
 
 - (short) history of functional languages
-	- LISP / ML
-	- Haskell / ...
+	- LISP / ML / Scheme
+	- Haskell
+	- Erlang
 	- Scala
 
 - characteristics of functional languages
@@ -37,10 +38,18 @@ Presentation Outline
 
 	- recursion
 		- fac / fib / ... ?
+		- quicksort
 
-	- case classes
+	- case classes / functional data structures
 		- lists
 		- trees
+
+	- control abstraction / reduce code duplication
+		- recschema
+
+	- for expressions
+		- generators, definitions, filters
+		- n queeens problem
 
     - map / reduce
 
@@ -51,4 +60,6 @@ Presentation Outline
 	- higher order functions
 		- composition
 		- currying (Beispiel: Sterbetafel mit mehreren Parametern -> Sterbetafel nur von Alter abhängig)
+
+	- example from insurance mathematics
 
