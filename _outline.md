@@ -7,18 +7,19 @@ Presentation Outline
 	- Erlang
 	- Scala
 
-- characteristics of functional languages
-	- first class functions
-	- recursion
-	- strict / lazy evaluation
-	- type systems
-
 - why should we use functional languages (imperative vs. functional)?
 	- avoid side effects
 	- referential transparency
 		- verify
 		- optimize
 		- parallelize
+
+- characteristics of functional languages
+	- functions are first class citizens
+	- strict / lazy evaluation
+	- recursion
+	- type systems
+	- higher order functions
 
 - Scala
 
@@ -40,12 +41,12 @@ Presentation Outline
 		- fac / fib / ... ?
 		- quicksort
 
+	- control abstraction / reduce code duplication
+		- recschema
+
 	- case classes / functional data structures
 		- lists
 		- trees
-
-	- control abstraction / reduce code duplication
-		- recschema
 
 	- for expressions
 		- generators, definitions, filters
@@ -59,7 +60,10 @@ Presentation Outline
 
 	- higher order functions
 		- composition
-		- currying (Beispiel: Sterbetafel mit mehreren Parametern -> Sterbetafel nur von Alter abhängig)
+		- currying
+		- extensions / DSLs
 
 	- example from insurance mathematics
+		- Beispiel: (Mehrere) Sterbetafel(n) mit mehreren Parametern -> qx nur von Alter abhängig
+
 

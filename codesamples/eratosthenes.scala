@@ -1,7 +1,7 @@
 // Sieve of Eratosthenes
 import scala.language.postfixOps
 
-// Konzeptuell
+// Konzeptionell:
 // 1. Schreibe alle natürlichen Zahlen ab 2 hintereinander auf.
 // 2. Die kleinste nicht gestrichene Zahl in dieser Folge ist eine Primzahl. Streiche alle Vielfachen dieser Zahl.
 // 3. Wiederhole Schritt 2 mit der kleinsten noch nicht gestrichenen Zahl.
