@@ -5,3 +5,4 @@
 .log
 .lock
 .cache
+bin/

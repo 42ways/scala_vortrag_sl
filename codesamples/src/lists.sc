@@ -13,12 +13,12 @@ object lists {
   List("Peter", "Paul", "Mary") map (_.toUpperCase)
                                                   //> res4: List[String] = List(PETER, PAUL, MARY)
 
-	def fac(n: Int) = (1 to n) reduceLeft(_*_)//> fac: (n: Int)Int
+	def fac(n: Int) = (1 to n) reduce(_*_)    //> fac: (n: Int)Int
 
 
 	fac(5)                                    //> res5: Int = 120
 
-	def squareSum(n: Int) = (1 to n) map(x => x*x ) reduceLeft(_+_)
+	def squareSum(n: Int) = (1 to n) map(x => x*x ) reduce(_+_)
                                                   //> squareSum: (n: Int)Int
 
 	squareSum(1)                              //> res6: Int = 1

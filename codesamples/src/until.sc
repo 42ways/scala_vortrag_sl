@@ -10,7 +10,7 @@ object until {
   }                                               //> until: (condition: => Boolean)(block: => Unit)Unit
 
   var x = 10                                      //> x  : Int = 10
-  until(x == 0) {
+  until (x == 0) {
     x -= 1
     println(x)
   }                                               //> 9

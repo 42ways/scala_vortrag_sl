@@ -42,7 +42,7 @@ object sterbetafeln {
   }
 
   def unisex_sterbetafel(tafel: String, age: Int): Double = {
-    // Ganz banale Idee für Demozwecke: Wir nehmen den Durchschnitt zwischen Männlein und Weiblein
+    // Ganz banale Idee für Demozwecke: Wir nehmen den Durchschnitt zwischen M und W
     (klassische_sterbetafel(tafel, "M", age) + klassische_sterbetafel(tafel, "W", age)) / 2
   }
 
