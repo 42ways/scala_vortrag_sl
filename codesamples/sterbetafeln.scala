@@ -1,6 +1,8 @@
-// Sterbetafel 2009/2011 früheres Bundesgebiet (ohne West-Berlin) männlich
-// https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/Sterbefaelle/Tabellen/SterbetafelFBNL.xls
-val W_m_2009_2011 = Array(
+object sterbetafeln {
+
+  // Sterbetafel 2009/2011 früheres Bundesgebiet (ohne West-Berlin) männlich
+  // https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/Sterbefaelle/Tabellen/SterbetafelFBNL.xls
+  val W_m_2009_2011 = Array(
     0.00400323, 0.00032858, 0.00019384, 0.00012938, 0.00012352, 0.00011247, 0.00010825, 0.00008650, 0.00007999, 0.00007755,
     0.00008935, 0.00008385, 0.00010379, 0.00010645, 0.00014993, 0.00017922, 0.00025623, 0.00033604, 0.00048112, 0.00048637,
     0.00051443, 0.00052063, 0.00051528, 0.00048373, 0.00054623, 0.00054453, 0.00056668, 0.00060955, 0.00060119, 0.00061786,
@@ -13,9 +15,9 @@ val W_m_2009_2011 = Array(
     0.17358914, 0.19708719, 0.21339218, 0.23145174, 0.25007594, 0.26920161, 0.28876520, 0.30870313, 0.32895208, 0.34944938,
     0.37013328)
 
-// Sterbetafel 2009/2011 früheres Bundesgebiet (ohne West-Berlin) weiblich
-// https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/Sterbefaelle/Tabellen/SterbetafelFBNL.xls
-val W_w_2009_2011 = Array(
+  // Sterbetafel 2009/2011 früheres Bundesgebiet (ohne West-Berlin) weiblich
+  // https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/Sterbefaelle/Tabellen/SterbetafelFBNL.xls
+  val W_w_2009_2011 = Array(
     0.00332634, 0.00025214, 0.00014849, 0.00011425, 0.00011686, 0.00010299, 0.00009287, 0.00008879, 0.00007630, 0.00006959,
     0.00006972, 0.00008424, 0.00007733, 0.00009037, 0.00010439, 0.00011872, 0.00015195, 0.00016468, 0.00023463, 0.00018955,
     0.00021520, 0.00021378, 0.00023078, 0.00021489, 0.00021130, 0.00021935, 0.00023059, 0.00024597, 0.00024677, 0.00028487,
@@ -28,22 +30,23 @@ val W_w_2009_2011 = Array(
     0.15301167, 0.17563882, 0.18704526, 0.20486420, 0.22327952, 0.24223005, 0.26165405, 0.28148952, 0.30167454, 0.32214758,
     0.34284780)
 
-def klassische_sterbetafel(tafel: String, sex: String, age: Int): Double = {
+  def klassische_sterbetafel(tafel: String, sex: String, age: Int): Double = {
     tafel match {
-        case "2009/2011" => sex match {
-            case "M" => W_m_2009_2011(age)
-            case "W" => W_w_2009_2011(age)
-        }
+      case "2009/2011" => sex match {
+        case "M" => W_m_2009_2011(age)
+        case "W" => W_w_2009_2011(age)
+      }
     }
-}
+  }
 
-def unisex_sterbetafel(tafel: String, age: Int): Double = {
+  def unisex_sterbetafel(tafel: String, age: Int): Double = {
     // Ganz banale Idee für Demozwecke: Wir nehmen den Durchschnitt zwischen Männlein und Weiblein
     (klassische_sterbetafel(tafel, "M", age) + klassische_sterbetafel(tafel, "W", age)) / 2
-}
+  }
 
-def bmi_sterbetafel(tafel: String, sex: String, groesse: Int, gewicht: Double, age: Int): Double = {
+  def bmi_sterbetafel(tafel: String, sex: String, groesse: Int, gewicht: Double, age: Int): Double = {
     // Ganz banale Idee für Demozwecke: Body Mass Index-Abweichung zum "Normalwert" von 22 in % zuschlagen
     val bmi = gewicht / (groesse / 100.0 * groesse / 100.0)
-    klassische_sterbetafel(tafel, sex, age) * ( 1 + (bmi - 22).abs * 0.01)
+    klassische_sterbetafel(tafel, sex, age) * (1 + (bmi - 22).abs * 0.01)
+  }
 }

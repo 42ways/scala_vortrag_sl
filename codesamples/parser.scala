@@ -30,8 +30,8 @@ class EvalParser extends RegexParsers {
     def factor = number ^^ {_.toInt} | "(" ~> expr <~ ")"
 }
 
-val parser = new EvalParser
-val result = parser.parseAll(parser.expr, "3-4*5")
+val evalParser = new EvalParser
+parser.parseAll(evalParser.expr, "3-4*5")
 
 // ----------------------------------------
 
@@ -54,6 +54,6 @@ class TreeParser extends RegexParsers {
     def factor: Parser[ParseTree] = number ^^ (n => Number(n.toInt)) | "(" ~> expr <~ ")"
 }
 
-val parser = new TreeParser
-val result = parser.parseAll(parser.expr, "3-4*5")
+val treeParser = new TreeParser
+parser.parseAll(treeParser.expr, "3-4*5")
 
