@@ -1,0 +1,3 @@
+object pair {
+  println("Welcome to the Scala worksheet")
+}

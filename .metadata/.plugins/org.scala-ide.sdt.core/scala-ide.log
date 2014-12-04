@@ -1,0 +1,1120 @@
+2014-12-03 22:28:29,183  WARN [ModalContext] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:28:29,185  WARN [ModalContext] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:28:37,996 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,118 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,244 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,356 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,463 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,564 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,664 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,791 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,896 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:38,995 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,093 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,210 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,311 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,395 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,499 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,585 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,693 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,794 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:39,890 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,012 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,178 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,179 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,271 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,378 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,473 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:28:40,559 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:46,729 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:48,879 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,663 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,668 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,860 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,944 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,945 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,946 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:50,962 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:51,010 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:51,205 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:52,131 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:52,160 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:52,198 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:52,236 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:29:52,280 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:30:30,892 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:30:30,923 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:30:30,966 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:30:31,007 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:30:31,065 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:26,537 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:27,029 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:27,065 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:27,101 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:27,141 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:27,260 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:39,690 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:40,218 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:40,253 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:40,306 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:40,346 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:40,466 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,796 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,797 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,808 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,814 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,814 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,814 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,815 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,815 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,815 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,815 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,816 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,816 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,816 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,817 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,817 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,817 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,818 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,818 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,818 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,819 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,819 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,819 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,820 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,820 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,820 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:54,821 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:57,310 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:57,899 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:57,931 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:57,967 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:58,004 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:31:58,121 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:04,886 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:04,893 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:31,828 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:32,595 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:32,625 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:32,667 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:32,713 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:32:32,842 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:33:04,813 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2014-12-03 22:33:04,813 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2014-12-03 22:33:04,814 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit$.fromEditor(ScriptCompilationUnit.scala:93)
+2014-12-03 22:33:04,814 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.org$scalaide$worksheet$reconciler$ScalaReconcilingStrategy$$scriptUnit$lzycompute(ScalaReconcilingStrategy.scala:16)
+2014-12-03 22:33:04,814 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.org$scalaide$worksheet$reconciler$ScalaReconcilingStrategy$$scriptUnit(ScalaReconcilingStrategy.scala:16)
+2014-12-03 22:33:04,814 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2014-12-03 22:33:04,814 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2014-12-03 22:33:04,814 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2014-12-03 22:34:02,399 ERROR [main] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-12-03 22:34:02,399 ERROR [main] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-12-03 22:34:02,399 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-12-03 22:34:21,036 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:21,063 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:21,102 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:21,140 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:21,258 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:31,704 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:31,732 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:31,769 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:31,805 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:31,847 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2014-12-03 22:34:54,059  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:34:54,060  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:35:48,512  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:35:48,512  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:36:16,238  WARN [Worker-7] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:36:16,239  WARN [Worker-7] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:37:02,574  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:37:02,574  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:37:04,729  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:37:04,729  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:38:36,446  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:38:36,447  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:38:51,473  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:38:51,473  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:38:52,879  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:38:52,879  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:38:57,324  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:38:57,324  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:38:58,704  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:38:58,704  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:44:59,986  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:44:59,987  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:47:01,766  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:47:01,767  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:47:03,186  WARN [Worker-14] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:47:03,186  WARN [Worker-14] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:56:24,956  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:56:24,958  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:56:26,324  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:56:26,324  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:57:18,838  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:57:18,838  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:57:20,178  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:57:20,178  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:58:14,720  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:58:14,720  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:58:16,070  WARN [Worker-22] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:58:16,071  WARN [Worker-22] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 22:59:40,967  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 22:59:40,967  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:00:04,223  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:00:04,223  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:00:10,928  WARN [Worker-22] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:00:10,928  WARN [Worker-22] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:00:11,389 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Exception while reconciling worksheet
+org.eclipse.core.internal.resources.ResourceException: Resource '/codesamples/qs.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:288)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:107)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:165)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:159)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:55)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:55)
+	at scala.Option.getOrElse(Option.scala:120)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:55)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:39)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:290)
+	at scala.collection.immutable.List.map(List.scala:276)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.compiler.IScalaPresentationCompiler$.withResponse(IScalaPresentationCompiler.scala:308)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.askReload(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:104)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:62)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.forceReconcile(InteractiveCompilationUnit.scala:151)
+	at org.scalaide.worksheet.ScriptCompilationUnit.forceReconcile(ScriptCompilationUnit.scala:28)
+	at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:29)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+2014-12-03 23:01:05,962  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:01:05,962  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:01:43,784  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:01:43,784  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit$.fromEditor(ScriptCompilationUnit.scala:93)
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.org$scalaide$worksheet$reconciler$ScalaReconcilingStrategy$$scriptUnit$lzycompute(ScalaReconcilingStrategy.scala:16)
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.org$scalaide$worksheet$reconciler$ScalaReconcilingStrategy$$scriptUnit(ScalaReconcilingStrategy.scala:16)
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2014-12-03 23:14:20,168 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit$.fromEditor(ScriptCompilationUnit.scala:93)
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.org$scalaide$worksheet$reconciler$ScalaReconcilingStrategy$$scriptUnit$lzycompute(ScalaReconcilingStrategy.scala:16)
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.org$scalaide$worksheet$reconciler$ScalaReconcilingStrategy$$scriptUnit(ScalaReconcilingStrategy.scala:16)
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2014-12-03 23:15:17,389 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2014-12-03 23:17:50,890  WARN [main] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:17:50,891  WARN [main] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:24:49,869  WARN [main] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:24:49,870  WARN [main] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:26:28,851  WARN [main] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:26:28,852  WARN [main] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:24,340  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:24,341  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:28,045  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:28,045  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:31,536  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:31,536  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:33,600  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:33,600  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:42,047  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:42,047  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:43,496  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:43,496  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:47,187  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:47,191  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:48,534  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:48,535  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:53,192  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:53,193  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:27:54,604  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:27:54,604  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:28:33,317  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:28:33,317  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:28:34,683  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:28:34,684  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:29:05,973  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:29:05,974  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:29:07,330  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:29:07,330  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:29:08,571  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:29:08,572  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:29:09,869  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:29:09,869  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:29:17,132  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:29:17,132  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:29:18,483  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:29:18,484  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:39:56,134  WARN [Worker-13] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:39:56,134  WARN [Worker-13] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:40:32,285  WARN [Worker-16] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:40:32,286  WARN [Worker-16] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:40:53,601  WARN [Worker-16] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:40:53,602  WARN [Worker-16] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:40:54,851  WARN [Worker-16] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:40:54,852  WARN [Worker-16] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:41:10,212  WARN [Worker-14] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:41:10,212  WARN [Worker-14] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:41:11,476  WARN [Worker-16] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:41:11,477  WARN [Worker-16] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:41:19,082  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:41:19,082  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:41:20,364  WARN [Worker-13] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:41:20,365  WARN [Worker-13] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:42:48,044  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:42:48,045  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:42:49,355  WARN [Worker-17] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:42:49,356  WARN [Worker-17] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:43:14,573  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:43:14,573  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:43:15,879  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:43:15,879  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:44:02,598  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:44:02,599  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:44:46,451  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:44:46,451  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:45:03,929 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2014-12-03 23:45:03,929 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2014-12-03 23:45:03,929 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2014-12-03 23:45:41,577  WARN [Worker-19] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:45:41,577  WARN [Worker-19] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:46:00,305  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:46:00,305  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:46:10,720  WARN [Worker-19] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:46:10,720  WARN [Worker-19] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:46:19,004  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:46:19,004  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:46:42,968  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:46:42,968  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:46:47,109  WARN [Worker-19] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:46:47,109  WARN [Worker-19] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:48:30,535  WARN [Worker-19] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:48:30,536  WARN [Worker-19] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:48:52,068  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:48:52,068  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:49:19,374  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:49:19,375  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:49:44,564  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:49:44,564  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:50:19,284  WARN [Worker-15] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:50:19,284  WARN [Worker-15] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:50:20,508  WARN [Worker-12] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:50:20,508  WARN [Worker-12] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:50:45,742  WARN [Worker-12] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:50:45,742  WARN [Worker-12] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:50:46,947  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:50:46,948  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:50:49,651  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:50:49,651  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:50:50,871  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:50:50,871  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:51:07,758  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:51:07,759  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:51:09,047  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:51:09,047  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:51:34,825  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:51:34,825  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:51:39,818  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:51:39,818  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:51:40,993  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:51:40,993  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:52:10,477  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:52:10,477  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:53:27,291  WARN [Worker-12] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:53:27,292  WARN [Worker-12] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:53:41,520  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:53:41,521  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:53:49,778  WARN [Worker-18] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:53:49,778  WARN [Worker-18] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:53:50,929  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:53:50,930  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:53:56,513  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:53:56,514  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:53:57,646  WARN [Worker-12] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:53:57,646  WARN [Worker-12] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:54:31,802  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:54:31,802  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:54:33,088  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:54:33,089  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:56:07,997  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:56:07,998  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:56:22,149 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error during instrumentation of ScriptCompilationUnit(L/codesamples/sqrt.sc)
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source sqrt.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:35)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:22)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$act$1$$anonfun$apply$1.applyOrElse(WorksheetRunner.scala:62)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:130)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.scala$actors$InternalReplyReactor$$super$resumeReceiver(WorksheetRunner.scala:36)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:60)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.resumeReceiver(WorksheetRunner.scala:36)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.searchMailbox(WorksheetRunner.scala:36)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:118)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2014-12-03 23:56:50,433  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:56:50,433  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:56:51,677  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:56:51,677  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:56:56,261  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:56:56,261  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:56:57,468  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:56:57,468  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:57:20,956  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:57:20,956  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:57:22,138  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:57:22,138  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:57:32,457  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:57:32,458  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:57:33,688  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:57:33,689  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:57:41,656  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:57:41,656  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:57:42,853  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:57:42,853  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:58:37,713  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:58:37,714  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:58:50,478  WARN [Worker-24] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:58:50,478  WARN [Worker-24] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:59:12,017  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:59:12,018  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:59:13,176  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:59:13,177  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:59:53,357  WARN [Worker-24] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:59:53,358  WARN [Worker-24] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-03 23:59:54,684  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-03 23:59:54,684  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:00:43,277  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:00:43,277  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:00:44,043 ERROR [Java indexing] - ScalaSourceFile - Compiler crash during indexing of L/codesamples/.worksheet/src/barwertberechnung.scala
+org.eclipse.core.internal.resources.ResourceException: Resource '/codesamples/qx_curried_barwert.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:288)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:107)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:165)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:159)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:55)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:55)
+	at scala.Option.getOrElse(Option.scala:120)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:55)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:39)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:290)
+	at scala.collection.immutable.List.map(List.scala:276)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.compiler.IScalaPresentationCompiler$.withResponse(IScalaPresentationCompiler.scala:308)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.askReload(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:104)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$class.addToIndexer(ScalaCompilationUnit.scala:159)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.addToIndexer(ScalaSourceFile.scala:73)
+	at org.scalaide.core.internal.jdt.search.ScalaSourceIndexer$$anonfun$indexDocument$2.apply(ScalaSourceIndexer.scala:16)
+	at org.scalaide.core.internal.jdt.search.ScalaSourceIndexer$$anonfun$indexDocument$2.apply(ScalaSourceIndexer.scala:16)
+	at scala.Option.map(Option.scala:145)
+	at org.scalaide.core.internal.jdt.search.ScalaSourceIndexer.indexDocument(ScalaSourceIndexer.scala:16)
+	at scala.tools.eclipse.contribution.weaving.jdt.indexerprovider.IndexerProviderAspect.ajc$around$scala_tools_eclipse_contribution_weaving_jdt_indexerprovider_IndexerProviderAspect$1$16276a3c(IndexerProviderAspect.aj:30)
+	at org.eclipse.jdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:71)
+	at org.eclipse.jdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:504)
+	at org.eclipse.jdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:984)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:405)
+	at java.lang.Thread.run(Thread.java:745)
+2014-12-04 00:00:44,453  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:00:44,453  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:00:57,784  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:00:57,785  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:01:15,051  WARN [Worker-26] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:01:15,051  WARN [Worker-26] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:01:16,194  WARN [Worker-23] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:01:16,194  WARN [Worker-23] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:01:50,155  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:01:50,155  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:02:08,743  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:02:08,743  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:02:26,632  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:02:26,632  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:02:51,616  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:02:51,616  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:03:03,767  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:03:03,767  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:03:18,389  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:03:18,389  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:03:25,948  WARN [Worker-23] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:03:25,949  WARN [Worker-23] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:03:57,928  WARN [Worker-20] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:03:57,928  WARN [Worker-20] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:03:59,294  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:03:59,294  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:04:24,823  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:04:24,823  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:05:10,309  WARN [Worker-26] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:05:10,309  WARN [Worker-26] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:05:22,713  WARN [Worker-26] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:05:22,713  WARN [Worker-26] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:05:31,613  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:05:31,614  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:00,009  WARN [Worker-24] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:00,009  WARN [Worker-24] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:01,240  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:01,241  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:10,709  WARN [Worker-24] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:10,710  WARN [Worker-24] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:11,997  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:11,997  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:17,335  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:17,335  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:18,551  WARN [Worker-26] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:18,551  WARN [Worker-26] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:22,058  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:22,058  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:23,331  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:23,331  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:39,970  WARN [Worker-21] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:39,970  WARN [Worker-21] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:06:41,279  WARN [Worker-23] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:06:41,279  WARN [Worker-23] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:15:15,369  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:15:15,369  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:15:24,071  WARN [Worker-27] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:15:24,071  WARN [Worker-27] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:15:25,341  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:15:25,342  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:16:04,904  WARN [Worker-29] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:16:04,905  WARN [Worker-29] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:16:06,204  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:16:06,204  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:16:44,665  WARN [Worker-27] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:16:44,666  WARN [Worker-27] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:16:45,931  WARN [Worker-27] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:16:45,932  WARN [Worker-27] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:17:46,076  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:17:46,076  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:18:17,972  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:18:17,972  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:18:34,994  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:18:34,994  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:10,021  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:10,021  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:11,183  WARN [Worker-31] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:11,184  WARN [Worker-31] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:44,447  WARN [Worker-29] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:44,447  WARN [Worker-29] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:45,681  WARN [Worker-27] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:45,682  WARN [Worker-27] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:52,219  WARN [Worker-29] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:52,219  WARN [Worker-29] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:53,355  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:53,355  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:55,907  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:55,907  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:19:57,091  WARN [Worker-31] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:19:57,092  WARN [Worker-31] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:20:20,450  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:20:20,451  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:20:31,338  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:20:31,339  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:20:41,078  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:20:41,078  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:20:51,186  WARN [Worker-27] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:20:51,187  WARN [Worker-27] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:20:52,381  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:20:52,381  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:22:19,032  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:22:19,032  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:22:31,404  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:22:31,405  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:22:40,057  WARN [Worker-31] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:22:40,057  WARN [Worker-31] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:22:58,322  WARN [Worker-33] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:22:58,322  WARN [Worker-33] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:22:59,569  WARN [Worker-33] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:22:59,570  WARN [Worker-33] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:23:03,975  WARN [Worker-31] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:23:03,975  WARN [Worker-31] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:23:05,249  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:23:05,249  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:23:33,977  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:23:33,978  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:23:42,443  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:23:42,443  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:23:50,420  WARN [Worker-31] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:23:50,420  WARN [Worker-31] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:24:01,768  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:24:01,769  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:24:02,957  WARN [Worker-33] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:24:02,957  WARN [Worker-33] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:24:07,387  WARN [Worker-33] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:24:07,387  WARN [Worker-33] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:24:08,588  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:24:08,588  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:24:22,138  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:24:22,138  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:24:23,286  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:24:23,286  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:26:59,535  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:26:59,535  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:00,814  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:00,814  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:07,733  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:07,734  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:08,862  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:08,862  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:18,908  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:18,908  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:20,114  WARN [Worker-35] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:20,114  WARN [Worker-35] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:22,684  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:22,684  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:23,882  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:23,882  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:25,932  WARN [Worker-35] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:25,932  WARN [Worker-35] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:27,121  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:27,121  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:30,685  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:30,686  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:31,901  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:31,901  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:35,289  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:35,289  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:36,467  WARN [Worker-34] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:36,467  WARN [Worker-34] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:40,114  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:40,114  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:27:41,270  WARN [Worker-32] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:27:41,270  WARN [Worker-32] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:31:29,361  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:31:29,361  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:31:30,595  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:31:30,596  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:31:46,244  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:31:46,244  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:31:47,436  WARN [Worker-36] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:31:47,437  WARN [Worker-36] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:32:42,415  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:32:42,415  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:32:43,663  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:32:43,663  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:33:10,110  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:33:10,110  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:33:11,283  WARN [Worker-36] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:33:11,283  WARN [Worker-36] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:33:17,767  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:33:17,767  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:33:19,018  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:33:19,019  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:33:32,980  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:33:32,981  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:33:34,209  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:33:34,209  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:34:27,341  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:34:27,341  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:34:28,704  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:34:28,704  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:36:06,423  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:36:06,423  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:36:07,765  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:36:07,765  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:36:31,307  WARN [Worker-30] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:36:31,307  WARN [Worker-30] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:36:32,594  WARN [Worker-36] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:36:32,594  WARN [Worker-36] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:36:56,808  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:36:56,810  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:36:58,033  WARN [Worker-37] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:36:58,033  WARN [Worker-37] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:38:45,623  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:38:45,623  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:38:46,848  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:38:46,848  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:38:52,112  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:38:52,113  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:38:53,276  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:38:53,276  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:39:18,964  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:39:18,964  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:39:24,484  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:39:24,484  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:39:52,721  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:39:52,721  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:40:50,122  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:40:50,123  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:41:06,011  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:41:06,011  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:41:38,294  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:41:38,294  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:41:52,189  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:41:52,189  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:42:11,061  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:42:11,061  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:42:24,816 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2014-12-04 00:42:24,817 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2014-12-04 00:42:24,817 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2014-12-04 00:42:25,755  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:42:25,756  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:43:02,470  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:43:02,470  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:43:50,986  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:43:50,986  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:07,808  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:07,809  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:13,533  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:13,533  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:22,834  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:22,834  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:29,828  WARN [Worker-42] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:29,828  WARN [Worker-42] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:31,133  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:31,133  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:32,308  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:32,308  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:50,412  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:50,412  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:51,536  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:51,536  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:44:56,792  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:44:56,792  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:45:00,837  WARN [Worker-42] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:45:00,837  WARN [Worker-42] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:45:43,592  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:45:43,592  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:45:52,170  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:45:52,170  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:45:59,392 ERROR [Worker-42] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class EmptyTree, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2014-12-04 00:45:59,865  WARN [Worker-41] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:45:59,865  WARN [Worker-41] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:18,918 ERROR [Worker-39] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class EmptyTree, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2014-12-04 00:46:19,526  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:19,526  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:25,498  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:25,498  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:26,667  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:26,668  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:30,508  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:30,508  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:31,660  WARN [Worker-41] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:31,660  WARN [Worker-41] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:34,616  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:34,616  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:52,533  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:52,534  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:46:53,757  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:46:53,757  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:16,868  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:16,869  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:17,299 ERROR [Worker-42] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class EmptyTree, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2014-12-04 00:47:18,129  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:18,130  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:33,696  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:33,696  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:34,882  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:34,882  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:48,059  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:48,059  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:49,237  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:49,237  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:55,032  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:55,032  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:56,157  WARN [Worker-42] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:56,158  WARN [Worker-42] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:58,638  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:58,639  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:47:59,815  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:47:59,815  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:48:04,893  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:48:04,894  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:48:06,069  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:48:06,069  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:48:31,723  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:48:31,723  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:48:32,940  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:48:32,941  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:48:35,933  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:48:35,933  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:48:36,323 ERROR [Worker-40] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class EmptyTree, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2014-12-04 00:48:37,176  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:48:37,176  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:49:02,659  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:49:02,659  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:49:03,039 ERROR [Worker-25] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class EmptyTree, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2014-12-04 00:49:03,924  WARN [Worker-41] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:49:03,924  WARN [Worker-41] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:49:13,201  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:49:13,201  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:49:14,418  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:49:14,418  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:49:23,845  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:49:23,846  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:49:25,049  WARN [Worker-38] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:49:25,049  WARN [Worker-38] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:50:02,439  WARN [Worker-42] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:50:02,439  WARN [Worker-42] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:50:19,589  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:50:19,589  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:50:41,894  WARN [Worker-42] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:50:41,895  WARN [Worker-42] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:50:52,453  WARN [Worker-41] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:50:52,453  WARN [Worker-41] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:51:14,477  WARN [Worker-25] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:51:14,477  WARN [Worker-25] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:51:23,817  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:51:23,817  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:52:43,881  WARN [Worker-41] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:52:43,882  WARN [Worker-41] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:53:01,934  WARN [Worker-39] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:53:01,934  WARN [Worker-39] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:53:12,905  WARN [Worker-43] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:53:12,906  WARN [Worker-43] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:59:10,666  WARN [Worker-40] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:59:10,666  WARN [Worker-40] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 00:59:20,174  WARN [Worker-45] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 00:59:20,175  WARN [Worker-45] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:01:59,784  WARN [Worker-48] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:01:59,784  WARN [Worker-48] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:06:41,436  WARN [Worker-50] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:06:41,436  WARN [Worker-50] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:06:42,615  WARN [Worker-49] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:06:42,615  WARN [Worker-49] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:06:44,516  WARN [Worker-50] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:06:44,516  WARN [Worker-50] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:06:45,676  WARN [Worker-49] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:06:45,676  WARN [Worker-49] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:08:29,878  WARN [main] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:08:29,878  WARN [main] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:08:30,022 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.MatchError: ScalaInstallationChange() (of class org.scalaide.core.ScalaInstallationChange)
+2014-12-04 01:08:31,010 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.tools.nsc.interactive.FreshRunReq
+2014-12-04 01:08:31,010 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Incorrectly logged ControlThrowable: FreshRunReq(null)
+scala.tools.nsc.interactive.FreshRunReq
+2014-12-04 01:08:31,221  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2014-12-04 01:08:31,234  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2014-12-04 01:08:33,078  WARN [Worker-54] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:08:33,078  WARN [Worker-54] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:08:33,817 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.tools.nsc.interactive.FreshRunReq
+2014-12-04 01:08:33,826 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Incorrectly logged ControlThrowable: FreshRunReq(null)
+scala.tools.nsc.interactive.FreshRunReq
+2014-12-04 01:08:37,614  WARN [Worker-54] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:08:37,615  WARN [Worker-54] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:08:38,088 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.tools.nsc.interactive.FreshRunReq
+2014-12-04 01:08:38,089 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Incorrectly logged ControlThrowable: FreshRunReq(null)
+scala.tools.nsc.interactive.FreshRunReq
+2014-12-04 01:10:27,366  WARN [Worker-53] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:10:27,367  WARN [Worker-53] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:10:40,774  WARN [Worker-54] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:10:40,774  WARN [Worker-54] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:11:01,751  WARN [Worker-56] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:11:01,751  WARN [Worker-56] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:11:02,888  WARN [Worker-53] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:11:02,888  WARN [Worker-53] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:11:07,293  WARN [Worker-54] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:11:07,294  WARN [Worker-54] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:12:20,739  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:12:20,740  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:13:55,145  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:13:55,145  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:13:59,842 ERROR [Worker-3] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  
+
+2014-12-04 01:13:59,844  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - ProgramExecutor actor </Users/thomas/Development/others/scala_vortrag_sl/codesamples/lists.sc> self-healing...
+java.lang.NullPointerException
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.org$scalaide$worksheet$editor$ScriptEditor$DefaultEditorProxy$$doc(ScriptEditor.scala:77)
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.getContents(ScriptEditor.scala:79)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer.<init>(IncrementalDocumentMixer.scala:30)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer$.apply(IncrementalDocumentMixer.scala:16)
+	at org.scalaide.worksheet.runtime.ProgramExecutor$$anonfun$act$1$$anonfun$apply$2.applyOrElse(ProgramExecutor.scala:171)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:130)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.scala$actors$InternalReplyReactor$$super$resumeReceiver(ProgramExecutor.scala:104)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:60)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.resumeReceiver(ProgramExecutor.scala:104)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.searchMailbox(ProgramExecutor.scala:104)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:118)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2014-12-04 01:14:00,203  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:14:00,204  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:14:10,451  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:14:10,451  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:14:11,888  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:14:11,889  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:15:09,724  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:15:09,724  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:15:11,113  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:15:11,113  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:16:30,804  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:16:30,805  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:16:32,190  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:16:32,190  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:16:36,630  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:16:36,630  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:16:37,973  WARN [Worker-9] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:16:37,973  WARN [Worker-9] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:18:12,358  WARN [Worker-9] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:18:12,358  WARN [Worker-9] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:37:53,014  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:37:53,016  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:38:22,516  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:38:22,516  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:38:27,195  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:38:27,195  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:38:36,648  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:38:36,649  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:38:39,052  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:38:39,053  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:24,281  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:24,281  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:26,599  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:26,600  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:34,364  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:34,364  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:35,808  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:35,809  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:43,708  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:43,708  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:45,013  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:45,013  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:48,710  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:48,710  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:39:50,049  WARN [Worker-7] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:39:50,049  WARN [Worker-7] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:40:01,216  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:40:01,216  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:40:02,478  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:40:02,478  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:47:19,582  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:47:19,584  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:47:54,078  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:47:54,079  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:47:57,907 ERROR [Worker-5] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  
+
+2014-12-04 01:47:59,251  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:47:59,252  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:48:06,096  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:48:06,097  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:48:06,515 ERROR [Worker-2] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class pair, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2014-12-04 01:48:07,588  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:48:07,588  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:48:29,981  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:48:29,982  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:49:42,476  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:49:42,476  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:49:43,588 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Exception while reconciling worksheet
+org.eclipse.core.internal.resources.ResourceException: Resource '/codesamples/pair.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:288)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:107)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:165)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:159)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:55)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:55)
+	at scala.Option.getOrElse(Option.scala:120)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:55)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:39)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:290)
+	at scala.collection.immutable.List.map(List.scala:272)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.compiler.IScalaPresentationCompiler$.withResponse(IScalaPresentationCompiler.scala:308)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.askReload(ScalaPresentationCompiler.scala:290)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:104)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:62)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.forceReconcile(InteractiveCompilationUnit.scala:151)
+	at org.scalaide.worksheet.ScriptCompilationUnit.forceReconcile(ScriptCompilationUnit.scala:28)
+	at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:29)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+2014-12-04 01:49:44,225  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:49:44,226  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:51:55,383  WARN [Worker-7] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:51:55,383  WARN [Worker-7] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:51:56,710  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:51:56,710  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:52:27,301  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:52:27,301  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:52:28,671  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:52:28,671  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:53:23,730  WARN [Worker-6] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:53:23,730  WARN [Worker-6] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:53:25,233  WARN [Worker-10] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:53:25,233  WARN [Worker-10] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:55:15,349  WARN [Worker-11] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:55:15,350  WARN [Worker-11] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:55:16,832  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:55:16,832  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:55:31,913  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:55:31,913  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:55:33,181  WARN [Worker-11] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:55:33,181  WARN [Worker-11] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:55:40,396  WARN [Worker-12] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:55:40,396  WARN [Worker-12] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:55:41,644  WARN [Worker-10] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:55:41,644  WARN [Worker-10] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:56:45,761  WARN [Worker-11] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:56:45,761  WARN [Worker-11] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:56:47,060  WARN [Worker-7] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:56:47,060  WARN [Worker-7] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:56:55,200  WARN [Worker-7] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:56:55,200  WARN [Worker-7] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:56:56,392  WARN [Worker-8] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:56:56,392  WARN [Worker-8] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 01:58:18,760  WARN [Worker-10] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 01:58:18,762  WARN [Worker-10] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:26:50,737  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:26:50,740  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:27:20,751  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:27:20,751  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:27:25,916  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:27:25,916  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:27:55,092  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:27:55,092  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:27:55,291  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - ProgramExecutor actor </Users/thomas/Development/others/scala_vortrag_sl/codesamples/sqrt.sc> self-healing...
+java.lang.NullPointerException
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.org$scalaide$worksheet$editor$ScriptEditor$DefaultEditorProxy$$doc(ScriptEditor.scala:77)
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.getContents(ScriptEditor.scala:79)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer.<init>(IncrementalDocumentMixer.scala:30)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer$.apply(IncrementalDocumentMixer.scala:16)
+	at org.scalaide.worksheet.runtime.ProgramExecutor$$anonfun$act$1$$anonfun$apply$2.applyOrElse(ProgramExecutor.scala:171)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:130)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.scala$actors$InternalReplyReactor$$super$resumeReceiver(ProgramExecutor.scala:104)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:60)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.resumeReceiver(ProgramExecutor.scala:104)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.searchMailbox(ProgramExecutor.scala:104)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:118)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:115)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2014-12-04 09:28:16,128  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:16,128  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:17,599  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:17,599  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:24,798  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:24,798  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:37,533  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:37,534  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:39,258  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:39,258  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:49,851  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:49,851  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:51,191  WARN [Worker-5] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:51,191  WARN [Worker-5] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:55,073  WARN [Worker-2] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:55,074  WARN [Worker-2] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:28:56,389  WARN [Worker-4] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:28:56,389  WARN [Worker-4] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:29:03,309  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:29:03,309  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:29:04,723  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:29:04,723  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:29:08,247  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:29:08,247  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:29:09,601  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:29:09,601  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:29:39,116  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:29:39,116  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:29:40,429  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:29:40,430  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.

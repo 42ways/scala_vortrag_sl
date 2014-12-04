@@ -23,5 +23,6 @@ object queens {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._
     placeQueens(n)
   };System.out.println("""queens: (n: Int)List[List[(Int, Int)]]""")}
 
+  // queens()
   
 }

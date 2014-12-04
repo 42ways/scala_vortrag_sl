@@ -1,0 +1,8 @@
+object pairs {
+	val n = 7                                 //> n  : Int = 7
+
+	( 1 until n ) flatMap (i =>
+		( 1 until i ) map (j => (i, j))) filter (pair => 5 == (pair._1 + pair._2))
+                                                  //> res0: scala.collection.immutable.IndexedSeq[(Int, Int)] = Vector((3,2), (4,1
+                                                  //| ))
+}
