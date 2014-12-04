@@ -12,6 +12,6 @@ object hanoi {
     _hanoi(n, "A", "B", "C")
   }                                               //> hanoi: (n: Int)List[String]
 
-  hanoi(3)                                        //> res0: List[String] = List(AB, AC, BC, AB, CA, CB, AB)
+  hanoi(2)                                        //> res0: List[String] = List(AC, AB, CB)
 
 }

@@ -1118,3 +1118,21 @@ java.lang.NullPointerException
 2014-12-04 09:29:39,116  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
 2014-12-04 09:29:40,429  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
 2014-12-04 09:29:40,430  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:42:28,874  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:42:28,876  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:42:42,644  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:42:42,645  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:42:46,875  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:42:46,876  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:43:22,448  WARN [Worker-3] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:43:22,449  WARN [Worker-3] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:43:24,175  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:43:24,175  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:43:50,503  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:43:50,504  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:46:25,979  WARN [Worker-1] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:46:25,981  WARN [Worker-1] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:46:59,079  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:46:59,086  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.
+2014-12-04 09:47:04,402  WARN [Worker-0] - ScalaProject - Project codesamples has platform default sourceLevel.
+2014-12-04 09:47:04,402  WARN [Worker-0] - ScalaProject - Project codesamples runs on platform default installation.

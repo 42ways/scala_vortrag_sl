@@ -1,6 +1,7 @@
 import sterbetafeln._
+import qx_barwert_helper._
 
-object qx_curried_barwert {
+object barwertberechnung {
 
   def i(d: Double) = 1 + d
   def v(d: Double) = 1 / i(d)
@@ -32,4 +33,5 @@ object qx_curried_barwert {
     barwert(InterrestRate.constant0175.rate, bmi_qx("2009/2011", vp.sex, vp.groesse, vp.gewicht), Spektrum.yearly.fn)_
   println("Barwert bmi  = " + barwertBerechnungBmi(0, 12, vp.age(DateFactory(2014, 1, 1))))
 
+	println("Hello")
 }

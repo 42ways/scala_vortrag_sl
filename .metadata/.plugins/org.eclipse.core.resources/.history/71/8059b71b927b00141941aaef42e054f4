@@ -23,6 +23,7 @@ object queens {
     placeQueens(n)
   }                                               //> queens: (n: Int)List[List[(Int, Int)]]
 
-  // queens()
-
+  queens(4)                                       //> res0: List[List[(Int, Int)]] = List(List((4,3), (3,1), (2,4), (1,2)), List((
+                                                  //| 4,2), (3,4), (2,1), (1,3)))
+  
 }
