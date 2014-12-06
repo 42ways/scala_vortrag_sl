@@ -4,5 +4,6 @@
 	<classpathentry kind="lib" path="/Applications/eclipse/plugins/org.scala-lang.modules.scala-parser-combinators_1.0.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="data"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
