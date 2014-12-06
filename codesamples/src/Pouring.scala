@@ -1,3 +1,5 @@
+// From https://class.coursera.org/progfun-005/lecture/125
+
 class Pouring(capacity: Vector[Int]) {
 
 	// Stages
