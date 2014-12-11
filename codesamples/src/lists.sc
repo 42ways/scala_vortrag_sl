@@ -18,12 +18,30 @@ object lists {
 
 	fac(5)                                    //> res5: Int = 120
 
+  fac(0)                                          //> java.lang.UnsupportedOperationException: empty.reduceLeft
+                                                  //| 	at scala.collection.TraversableOnce$class.reduceLeft(TraversableOnce.sca
+                                                  //| la:165)
+                                                  //| 	at scala.collection.AbstractTraversable.reduceLeft(Traversable.scala:104
+                                                  //| )
+                                                  //| 	at scala.collection.TraversableOnce$class.reduce(TraversableOnce.scala:1
+                                                  //| 93)
+                                                  //| 	at scala.collection.AbstractTraversable.reduce(Traversable.scala:104)
+                                                  //| 	at lists$$anonfun$main$1.fac$1(lists.scala:12)
+                                                  //| 	at lists$$anonfun$main$1.apply$mcV$sp(lists.scala:17)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$$anonfun$$exe
+                                                  //| cute$1.apply$mcV$sp(WorksheetSupport.scala:76)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
+                                                  //| orksheetSupport.scala:65)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$execute(Wor
+                                                  //| ksheetSupport.scala:75)
+                                                  //| 	at lists$.main(lists.scala:1)
+                                                  //| 	at lists.main(lists.scala)
+  
 	def squareSum(n: Int) = (1 to n) map(x => x*x ) reduce(_+_)
-                                                  //> squareSum: (n: Int)Int
 
-	squareSum(1)                              //> res6: Int = 1
-	squareSum(2)                              //> res7: Int = 5
-	squareSum(3)                              //> res8: Int = 14
-	squareSum(4)                              //> res9: Int = 30
+	squareSum(1)
+	squareSum(2)
+	squareSum(3)
+	squareSum(4)
 
 }

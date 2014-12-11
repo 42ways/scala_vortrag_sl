@@ -29,6 +29,8 @@ object recschema {
 
   def fac2 = myRecScheme(1, _ * _)                //> fac2: => Int => Int
 
+  fac2(5)                                         //> res0: Int = 120
+  
   def sumUpTo2 = myRecScheme(0, _ + _)            //> sumUpTo2: => Int => Int
 
   def squareSumUpTo2 = myRecScheme(0, (a, b) => a * a + b)
@@ -40,8 +42,8 @@ object recschema {
     n =>
       if (terminate(n)) initval
       else func(n, mySecondRecScheme(terminate, step, initval, func)(step(n)))
-  }                                               //> mySecondRecScheme: (terminate: Int => Boolean, step: Int => Int, initval: In
-                                                  //| t, func: (Int, Int) => Int)Int => Int
+  }                                               //> mySecondRecScheme: (terminate: Int => Boolean, step: Int => Int, initval: I
+                                                  //| nt, func: (Int, Int) => Int)Int => Int
 
   def fac3 = mySecondRecScheme(_ == 0, _ - 1, 1, _ * _)
                                                   //> fac3: => Int => Int

@@ -14,4 +14,8 @@ object discont {
 
 	diskont_0125(101.25)                      //> res1: Double = 100.0
 
+ def diskont_x: Double => Double = diskont(_, 200.0)
+                                                  //> diskont_x: => Double => Double
+
+  diskont_x(0.1)                                  //> res2: Double = 181.8181818181818
 }

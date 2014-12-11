@@ -23,4 +23,5 @@ object loops {
     go(n, 0, 1)
   }                                               //> fibonacci: (n: Int)Int
 
+  fibonacci(10)                                   //> res0: Int = 55
 }
